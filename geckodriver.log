@@ -3707,3 +3707,259 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://l
 console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
 1725479582843	Marionette	INFO	Stopped listening on port 51796
 Dynamically enable window occlusion 1
+1725480150649	geckodriver	INFO	Listening on 127.0.0.1:52462
+1725480153704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileiNIVOW"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725480153965	Marionette	INFO	Marionette enabled
+1725480154084	Marionette	INFO	Listening on port 52478
+WebDriver BiDi listening on ws://127.0.0.1:52463
+Read port: 52478
+1725480154246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript warning: dummy file, line 10: Script terminated by timeout at:
+@dummy file:10:493
+@dummy file:36:636
+@dummy file:37:2
+@dummy file:38:8
+
+1725480198377	Marionette	INFO	Stopped listening on port 52478
+Dynamically enable window occlusion 1
+1725480239703	geckodriver	INFO	Listening on 127.0.0.1:52622
+1725480242756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJ0vmZH"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725480242979	Marionette	INFO	Marionette enabled
+1725480243097	Marionette	INFO	Listening on port 52634
+WebDriver BiDi listening on ws://127.0.0.1:52623
+Read port: 52634
+1725480243209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725480248574	Marionette	INFO	Stopped listening on port 52634
+Dynamically enable window occlusion 1
+1725480252812	geckodriver	INFO	Listening on 127.0.0.1:52697
+1725480255889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52698" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7L9PVN"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725480256113	Marionette	INFO	Marionette enabled
+1725480256227	Marionette	INFO	Listening on port 52708
+WebDriver BiDi listening on ws://127.0.0.1:52698
+Read port: 52708
+1725480256344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1725480268883	Marionette	INFO	Stopped listening on port 52708
+Dynamically enable window occlusion 1
+1725480271931	geckodriver	INFO	Listening on 127.0.0.1:52778
+1725480275012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFMqHa4"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725480275238	Marionette	INFO	Marionette enabled
+1725480275610	Marionette	INFO	Listening on port 52790
+WebDriver BiDi listening on ws://127.0.0.1:52779
+Read port: 52790
+1725480275660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725480280708	Marionette	INFO	Stopped listening on port 52790
+Dynamically enable window occlusion 1
+1725480283667	geckodriver	INFO	Listening on 127.0.0.1:52850
+1725480286751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilepmIDrp"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725480286974	Marionette	INFO	Marionette enabled
+1725480287087	Marionette	INFO	Listening on port 52863
+WebDriver BiDi listening on ws://127.0.0.1:52851
+Read port: 52863
+1725480287199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725480310365	Marionette	INFO	Stopped listening on port 52863
+Dynamically enable window occlusion 1
+1725481472652	geckodriver	INFO	Listening on 127.0.0.1:54239
+1725481475720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileCyoEqJ"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725481475976	Marionette	INFO	Marionette enabled
+1725481476086	Marionette	INFO	Listening on port 54254
+WebDriver BiDi listening on ws://127.0.0.1:54240
+Read port: 54254
+1725481476197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725481480769	Marionette	INFO	Stopped listening on port 54254
+Dynamically enable window occlusion 1
+1725481501608	geckodriver	INFO	Listening on 127.0.0.1:54337
+1725481504651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile1WeNIb"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725481504871	Marionette	INFO	Marionette enabled
+1725481504981	Marionette	INFO	Listening on port 54349
+WebDriver BiDi listening on ws://127.0.0.1:54338
+Read port: 54349
+1725481505119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725481507923	Marionette	INFO	Stopped listening on port 54349
+Dynamically enable window occlusion 1
+1725481541237	geckodriver	INFO	Listening on 127.0.0.1:54424
+1725481544281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileGVooLX"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725481544502	Marionette	INFO	Marionette enabled
+1725481544613	Marionette	INFO	Listening on port 54433
+WebDriver BiDi listening on ws://127.0.0.1:54425
+Read port: 54433
+1725481544727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725481567860	Marionette	INFO	Stopped listening on port 54433
+Dynamically enable window occlusion 1
+1725481596495	geckodriver	INFO	Listening on 127.0.0.1:54589
+1725481599529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileY4eZm7"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725481599760	Marionette	INFO	Marionette enabled
+1725481599868	Marionette	INFO	Listening on port 54602
+WebDriver BiDi listening on ws://127.0.0.1:54590
+Read port: 54602
+1725481599991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725481604455	Marionette	INFO	Stopped listening on port 54602
+Dynamically enable window occlusion 1
+1725481608782	geckodriver	INFO	Listening on 127.0.0.1:54665
+1725481611838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile3kJgWF"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725481612064	Marionette	INFO	Marionette enabled
+1725481612180	Marionette	INFO	Listening on port 54676
+WebDriver BiDi listening on ws://127.0.0.1:54666
+Read port: 54676
+1725481612306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725481635279	Marionette	INFO	Stopped listening on port 54676
+Dynamically enable window occlusion 1
+1725484310418	geckodriver	INFO	Listening on 127.0.0.1:57716
+1725484313482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJmIcys"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725484313745	Marionette	INFO	Marionette enabled
+1725484313872	Marionette	INFO	Listening on port 57727
+WebDriver BiDi listening on ws://127.0.0.1:57717
+Read port: 57727
+1725484313983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725484350093	Marionette	INFO	Stopped listening on port 57727
+Dynamically enable window occlusion 1
+1725485032870	geckodriver	INFO	Listening on 127.0.0.1:58564
+1725485035942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileqy9CjE"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725485036175	Marionette	INFO	Marionette enabled
+1725485036289	Marionette	INFO	Listening on port 58574
+WebDriver BiDi listening on ws://127.0.0.1:58565
+Read port: 58574
+1725485036401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1725485046071	Marionette	INFO	Stopped listening on port 58574
+Dynamically enable window occlusion 1
+1725485127349	geckodriver	INFO	Listening on 127.0.0.1:58736
+1725485130411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHLePGD"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725485130639	Marionette	INFO	Marionette enabled
+1725485130753	Marionette	INFO	Listening on port 58747
+WebDriver BiDi listening on ws://127.0.0.1:58737
+Read port: 58747
+1725485130865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725485135456	Marionette	INFO	Stopped listening on port 58747
+Dynamically enable window occlusion 1
+1725485140588	geckodriver	INFO	Listening on 127.0.0.1:58818
+1725485143629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiley7nz57"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725485143872	Marionette	INFO	Marionette enabled
+1725485144302	Marionette	INFO	Listening on port 58830
+WebDriver BiDi listening on ws://127.0.0.1:58819
+Read port: 58830
+1725485144414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725485148876	Marionette	INFO	Stopped listening on port 58830
+Dynamically enable window occlusion 1
+1725485151815	geckodriver	INFO	Listening on 127.0.0.1:58892
+1725485154907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileW5K5sF"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725485155130	Marionette	INFO	Marionette enabled
+1725485155245	Marionette	INFO	Listening on port 58904
+WebDriver BiDi listening on ws://127.0.0.1:58893
+Read port: 58904
+1725485155359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725485159831	Marionette	INFO	Stopped listening on port 58904
+Dynamically enable window occlusion 1
+1725485166194	geckodriver	INFO	Listening on 127.0.0.1:58978
+1725485169259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileM6AZvZ"
+JavaScript error: cck2.cfg, line 20: ReferenceError: Components is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1725485169482	Marionette	INFO	Marionette enabled
+1725485169811	Marionette	INFO	Listening on port 58988
+WebDriver BiDi listening on ws://127.0.0.1:58979
+Read port: 58988
+1725485169932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1725485173330	Marionette	INFO	Stopped listening on port 58988
+Dynamically enable window occlusion 1
