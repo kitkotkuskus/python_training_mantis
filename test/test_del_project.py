@@ -1,5 +1,5 @@
 import random
-from python_training_mantis.model.project import Project
+from model.project import Project
 
 
 def test_del_project(app):

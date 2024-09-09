@@ -1,10 +1,10 @@
 from selenium import webdriver
-from python_training_mantis.fixture.session import SessionHelper
-from python_training_mantis.fixture.project import ProjectHelper
-from python_training_mantis.fixture.james import JamesHelper
-from python_training_mantis.fixture.signup import SignupHelper
-from python_training_mantis.fixture.mail import MailHelper
-from python_training_mantis.fixture.soap import SoapHelper
+from fixture.session import SessionHelper
+from fixture.project import ProjectHelper
+from fixture.james import JamesHelper
+from fixture.signup import SignupHelper
+from fixture.mail import MailHelper
+from fixture.soap import SoapHelper
 
 
 class Application:

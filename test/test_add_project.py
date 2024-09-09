@@ -1,4 +1,4 @@
-from python_training_mantis.fixture.project import Project
+from fixture.project import Project
 
 
 def test_add_project(app):

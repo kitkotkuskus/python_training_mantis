@@ -1,4 +1,4 @@
-from python_training_mantis.model.project import Project
+from model.project import Project
 import random
 import string
 

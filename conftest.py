@@ -1,7 +1,7 @@
 import pytest
 import json
 import os.path
-from python_training_mantis.fixture.application import Application
+from fixture.application import Application
 import ftputil
 
 
