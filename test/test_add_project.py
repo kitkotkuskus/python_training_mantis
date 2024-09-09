@@ -2,9 +2,8 @@ from fixture.project import Project
 
 
 def test_add_project(app):
-    username = "administrator"
-    password = "root"
-    app.session.login(username, password)
+    username = app.config['webadmin']['username']
+    password = app.config['webadmin']['password']
     assert app.session.is_logged_in_as("administrator")
     project = Project(name=app.project.random_name(), status="development",
                       view_status="public", description="test description 1245")
